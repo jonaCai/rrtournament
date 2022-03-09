@@ -1,0 +1,6 @@
+C:\Users\User\Downloads\FCE\CAI\2021\Practica\tournamentApp\tournamentApp\bin\Debug\tournamentApp.exe.config
+C:\Users\User\Downloads\FCE\CAI\2021\Practica\tournamentApp\tournamentApp\bin\Debug\tournamentApp.exe
+C:\Users\User\Downloads\FCE\CAI\2021\Practica\tournamentApp\tournamentApp\bin\Debug\tournamentApp.pdb
+C:\Users\User\Downloads\FCE\CAI\2021\Practica\tournamentApp\tournamentApp\obj\Debug\tournamentApp.csprojResolveAssemblyReference.cache
+C:\Users\User\Downloads\FCE\CAI\2021\Practica\tournamentApp\tournamentApp\obj\Debug\tournamentApp.exe
+C:\Users\User\Downloads\FCE\CAI\2021\Practica\tournamentApp\tournamentApp\obj\Debug\tournamentApp.pdb
